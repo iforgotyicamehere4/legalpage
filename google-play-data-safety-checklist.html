@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Google Play Data Safety Checklist | Benny’s Mathanomical Adventure</title>
+  <meta name="description" content="Google Play Data Safety and Families policy checklist for Benny’s Mathanomical Adventure.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="site-shell">
+    <div class="topbar">
+      <div class="brand">Benny’s Mathanomical Adventure</div>
+      <a class="btn" href="index.html">Back to Legal Center</a>
+    </div>
+
+    <article class="card">
+      <header class="hero">
+        <h1>Google Play Data Safety Checklist</h1>
+        <div class="meta">
+          <span><strong>App:</strong> Benny’s Mathanomical Adventure</span>
+          <span><strong>Last Reviewed:</strong> February 22, 2026</span>
+        </div>
+      </header>
+
+      <div class="main">
+        <section>
+          <p>Use this checklist when filling Play Console data safety and Families declarations.</p>
+        </section>
+
+        <section>
+          <h2>1. Preconditions (Must Stay True)</h2>
+          <ul>
+            <li>App works offline</li>
+            <li>No account/login system</li>
+            <li>No third-party analytics SDK</li>
+            <li>No ad SDK</li>
+            <li>No user data sent to developer servers</li>
+            <li>No child-directed behavioral advertising</li>
+          </ul>
+          <p>If any of the above changes, update:</p>
+          <ul>
+            <li>App code</li>
+            <li>Privacy Policy</li>
+            <li>Play Console Data Safety form</li>
+            <li>Families Policy declarations</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>2. Data Collection and Sharing (Play Console)</h2>
+          <p>Expected answers based on current app design:</p>
+          <ul>
+            <li><strong>Does your app collect or share any of the required user data types?</strong> No</li>
+            <li><strong>Is all data processed ephemerally?</strong> Not applicable if no collection</li>
+            <li><strong>Can users request data deletion?</strong> No collected server-side personal data; local data can be deleted by uninstall/clear storage</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>3. Data Types Audit</h2>
+          <p>Confirm each remains true before each release:</p>
+          <ul>
+            <li>Personal info (name, email, user IDs): Not collected</li>
+            <li>Financial info (card/bank): Not collected by developer; handled by Google Play billing</li>
+            <li>Health/fitness: Not collected</li>
+            <li>Messages: Not collected</li>
+            <li>Photos/videos: Not collected</li>
+            <li>Audio files/recordings: Not collected</li>
+            <li>Files and docs: Not collected</li>
+            <li>Calendar: Not collected</li>
+            <li>Contacts: Not collected</li>
+            <li>App activity: Not collected by developer analytics</li>
+            <li>Web browsing: Not collected</li>
+            <li>App info/performance diagnostics sent to developer: Not collected (unless crash SDK added)</li>
+            <li>Device or other IDs: Not collected by developer</li>
+            <li>Location (approx/precise): Not collected</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>4. Security Practices</h2>
+          <ul>
+            <li>Data in transit: Not applicable for no data transmission by developer</li>
+            <li>Local-only progress storage confirmed</li>
+            <li>Release build checked for unexpected network calls</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>5. Families Policy Alignment</h2>
+          <ul>
+            <li>Target audience and content declarations match app audience</li>
+            <li>No ad SDKs serving child-targeted behavioral ads</li>
+            <li>No social features requiring personal data sharing</li>
+            <li>Store listing, privacy policy, and in-app behavior are consistent</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>6. Billing and Purchases</h2>
+          <ul>
+            <li>App is a paid app on Google Play (one-time purchase)</li>
+            <li>Payment details handled by Google Play</li>
+            <li>Privacy Policy states developer does not store full payment card details</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>7. Release Gate (Do Not Ship Until Complete)</h2>
+          <ul>
+            <li>Privacy Policy URL in Play Console is live and public</li>
+            <li>Effective date updated</li>
+            <li>Contact email and mailing address present in policy</li>
+            <li>Data Safety answers re-verified against actual build</li>
+            <li>Families declarations re-verified</li>
+            <li>QA smoke test confirms no hidden trackers/SDK traffic</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2>8. Change Log Template</h2>
+          <p>For each release, record:</p>
+          <ul>
+            <li>Version:</li>
+            <li>Date:</li>
+            <li>Any new SDKs:</li>
+            <li>Any new permissions:</li>
+            <li>Any new network endpoints:</li>
+            <li>Data Safety form changed? (Yes/No)</li>
+            <li>Privacy Policy changed? (Yes/No)</li>
+            <li>Reviewer:</li>
+          </ul>
+        </section>
+
+        <div class="actions">
+          <a class="btn" href="privacy-policy.html">Privacy Policy</a>
+          <a class="btn" href="play-console-legal-copy.html">Play Console Copy Pack</a>
+        </div>
+      </div>
+    </article>
+  </div>
+</body>
+</html>
