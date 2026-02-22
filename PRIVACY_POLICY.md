@@ -15,7 +15,7 @@ Benny’s Mathanomical Adventure is a children’s educational game designed for
 **Operator / Developer:** Dakota Allen Craig  
 **Mailing Address:** 5614 Montina Rd, Knoxville, TN 37912, United States  
 **Email:** daquota92@gmail.com  
-**Website:** GitHub support page (URL pending)
+**Website:** https://iforgotyicamehere4.github.io/legalpage/
 
 ## 2. Who This App Is For
 This app is intended for children and families, including children under 13, and supports:
@@ -97,4 +97,4 @@ For privacy or child safety questions:
 **Dakota Allen Craig**  
 **5614 Montina Rd, Knoxville, TN 37912, United States**  
 **daquota92@gmail.com**  
-**GitHub support page (URL pending)**
+**https://iforgotyicamehere4.github.io/legalpage/**

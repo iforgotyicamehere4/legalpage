@@ -3,7 +3,7 @@
 Use this after replacing placeholders with your real details.
 
 ## 1) Privacy Policy URL (Play Console field)
-`Privacy policy URL pending (will be hosted on GitHub)`
+`https://iforgotyicamehere4.github.io/legalpage/privacy-policy.html`
 
 ## 2) Short Privacy Blurb (Store listing / support)
 Benny’s Mathanomical Adventure is a children’s educational game designed with privacy in mind. We do not collect personal information in-app, we do not use in-app ads or behavioral advertising, and game progress is stored locally on the device. The app is a paid download via Google Play, and billing is handled by Google Play.
@@ -21,7 +21,7 @@ Benny’s Mathanomical Adventure is a children’s educational game designed wit
 Developer/Publisher: Dakota Allen Craig
 Mailing Address: 5614 Montina Rd, Knoxville, TN 37912, United States
 Privacy Email: daquota92@gmail.com
-Support URL: GitHub support page (URL pending)
+Support URL: https://iforgotyicamehere4.github.io/legalpage/
 
 ## 5) Families Policy Consistency Reminder
 Before each release, make sure these are identical across:

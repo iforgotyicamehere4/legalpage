@@ -7,7 +7,7 @@ These Terms of Service ("Terms") govern your use of Benny’s Mathanomical Adven
 ## 1. Provider
 **Developer / Publisher:** Dakota Allen Craig  
 **Email:** daquota92@gmail.com  
-**Website:** GitHub support page (URL pending)
+**Website:** https://iforgotyicamehere4.github.io/legalpage/
 
 ## 2. Eligibility and Parent Responsibility
 The App is designed for children and families.
@@ -77,4 +77,4 @@ Questions about these Terms:
 
 **Dakota Allen Craig**  
 **daquota92@gmail.com**  
-**GitHub support page (URL pending)**
+**https://iforgotyicamehere4.github.io/legalpage/**
